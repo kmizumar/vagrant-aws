@@ -1,3 +1,7 @@
+# 0.6.1 (January 6, 2015)
+
+* Quick and Dirty Hack to avoid Vagrant SyncedFolders problem.
+
 # 0.6.0 (December 13, 2014)
 
 * Support static Elastic IP addresses.
