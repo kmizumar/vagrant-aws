@@ -196,7 +196,8 @@ There is minimal support for synced folders. Upon `vagrant up`,
 `rsync` (if available) to uni-directionally sync the folder to
 the remote machine over SSH.
 
-See [Vagrant Synced folders: rsync](https://docs.vagrantup.com/v2/synced-folders/rsync.html)
+This is good enough for all built-in Vagrant provisioners (shell,
+chef, and puppet) to work!
 
 
 ## Other Examples
